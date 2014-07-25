@@ -1,3 +1,3 @@
-# b3
+# SailsJS API Authentication Example
 
-a [Sails](http://sailsjs.org) application
+![alt tag](https://octodex.github.com/images/hubot.jpg)
